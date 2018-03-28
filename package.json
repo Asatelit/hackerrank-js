@@ -1,0 +1,21 @@
+{
+  "version": "1.0.0",
+  "author": "Yuri Kuschinsky",
+  "description": "My solutions to HackerRank problems",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Asatelit/hackerrank-js.git"
+  },
+  "engines": {
+    "node": ">=8.0 <9",
+    "npm": ">=5 <6"
+  },
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-prettier": "^2.9.0",
+    "eslint-plugin-prettier": "^2.6.0",
+    "prettier": "^1.11.1"
+  },
+  "license": "Unlicense"
+}
